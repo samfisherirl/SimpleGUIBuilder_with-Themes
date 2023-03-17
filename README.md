@@ -1,4 +1,9 @@
 # SimpleGUIBuilder
+#
+
+This is a fork from the original providing themes, and small tweaks to improve consistance, ease of use, and QOL. 
+
+#
 
 > A GUI for designing Python GUI's for PySimpleGUI.
 
