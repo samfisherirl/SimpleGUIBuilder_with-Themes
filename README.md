@@ -2,6 +2,11 @@
 
 This is a fork from the original providing themes, and small tweaks to improve consistance, ease of use, and QOL. 
 
+-Exports now include full code
+-Reset button to restore default code when you need a north star
+-Full theme list applied to both the GUIDesigner and the export
+
+
 
 > A GUI for designing Python GUI's for PySimpleGUI.
 
