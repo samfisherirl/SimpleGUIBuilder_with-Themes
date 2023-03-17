@@ -14,6 +14,9 @@ Exec made with pyinstaller
 
 ## About
 
+![image](https://user-images.githubusercontent.com/98753696/225898799-5fc61830-2bc3-43dd-9a8c-516a94aa38b4.png)
+
+
 I don't really like frontend but I really like the idea of giving my backend/terminal programs something more pleasurable to interact with.
 
 That's when I came across [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI), a simple solution to quickly give my programs an interactive front.
